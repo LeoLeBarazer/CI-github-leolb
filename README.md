@@ -1,4 +1,4 @@
-# CI-with-github
+# CI-with-github (Léo Le Barazer DE-2)
 
 run the code:
 

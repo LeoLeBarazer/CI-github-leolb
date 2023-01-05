@@ -12,7 +12,7 @@ pipeline {
             steps {
                 // Install the python flask application and run the tests
                 
-                bat 'python -m unittest/'
+                bat 'python -m unittest'
             }
         }
         stage('Deploying') {
